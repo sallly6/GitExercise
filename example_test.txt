@@ -1,3 +1,0 @@
-This is test file, we want student can learn how 
-to use git add, git commit, git status and other
-basic command line
